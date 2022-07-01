@@ -11,7 +11,7 @@ export const Card = (props) => {
       <hr />
       <div className='cardBody'>
         <div className='cardText'>
-          <p>{description.split("...")[0]}</p>
+          <p>{description}</p>
           <p>{content}</p>
         </div>
         <div className='cardFooter'>

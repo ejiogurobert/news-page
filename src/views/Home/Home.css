@@ -1,0 +1,28 @@
+.cardsWrapper {
+  display: flex;
+  row-gap: 36px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 36px;
+}
+
+.sectionWrapper {
+  padding: 36px 80px;
+}
+
+.subSection {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  margin-bottom: 18px;
+  color: #03009e;
+}
+
+.pagesWrapper {
+  display: flex;
+  flex-direction: row;
+  margin-top: 75px;
+  justify-content: flex-end;
+}

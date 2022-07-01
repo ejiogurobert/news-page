@@ -1,0 +1,10 @@
+.navBarContainer {
+  background: #03009e;
+  padding: 24px 80px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+}
